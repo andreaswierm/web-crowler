@@ -9,6 +9,7 @@
   "author": "Andreas Wiermann Casas",
   "license": "ISC",
   "dependencies": {
+    "cheerio": "^0.22.0",
     "request": "^2.79.0"
   }
 }
