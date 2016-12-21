@@ -1,0 +1,11 @@
+{
+  "name": "web-crowler",
+  "version": "0.1.0",
+  "description": "Console web crowler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andreas Wiermann Casas",
+  "license": "ISC"
+}
