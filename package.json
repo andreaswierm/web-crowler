@@ -12,5 +12,8 @@
     "cheerio": "^0.22.0",
     "parse-domain": "^1.0.0",
     "request": "^2.79.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
   }
 }
